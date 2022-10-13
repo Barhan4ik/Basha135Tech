@@ -75,5 +75,5 @@
 
 
 ![image](https://user-images.githubusercontent.com/105607598/195514094-dd0056ed-d5c2-454d-897c-43f1773549e3.png)
-                                                             Рисунок 1. Диаграмма BPMN 
+                                                                              Рисунок 1. Диаграмма BPMN 
                                                
