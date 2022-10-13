@@ -73,5 +73,4 @@
 28. Конец.
 ### Диаграмма BPMN
 
-![image](https://user-images.githubusercontent.com/105607598/195511143-dadcce07-5f58-450a-8dc0-8fd142573313.png)
-
+![image](https://user-images.githubusercontent.com/105607598/195514094-dd0056ed-d5c2-454d-897c-43f1773549e3.png)
