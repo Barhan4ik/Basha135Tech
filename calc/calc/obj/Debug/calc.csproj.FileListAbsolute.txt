@@ -1,0 +1,8 @@
+C:\Users\учеба\ВиртуалОчка\calc\calc\bin\Debug\calc.exe.config
+C:\Users\учеба\ВиртуалОчка\calc\calc\bin\Debug\calc.exe
+C:\Users\учеба\ВиртуалОчка\calc\calc\bin\Debug\calc.pdb
+C:\Users\учеба\ВиртуалОчка\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\учеба\ВиртуалОчка\calc\calc\obj\Debug\calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\учеба\ВиртуалОчка\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\учеба\ВиртуалОчка\calc\calc\obj\Debug\calc.exe
+C:\Users\учеба\ВиртуалОчка\calc\calc\obj\Debug\calc.pdb
