@@ -90,6 +90,6 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/105607598/204876228-34684ba9-767b-4909-a8bb-348d4397c82e.png" />
-</p>()
+</p>
 
 <div align="center">Рисунок 3.  IDEF модель </div>
