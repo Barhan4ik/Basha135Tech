@@ -1,0 +1,15 @@
+C:\Users\учеба\ВиртуалОчка\Lab_2\Lab_2\bin\Debug\net7.0\Lab_2.exe
+C:\Users\учеба\ВиртуалОчка\Lab_2\Lab_2\bin\Debug\net7.0\Lab_2.deps.json
+C:\Users\учеба\ВиртуалОчка\Lab_2\Lab_2\bin\Debug\net7.0\Lab_2.runtimeconfig.json
+C:\Users\учеба\ВиртуалОчка\Lab_2\Lab_2\bin\Debug\net7.0\Lab_2.dll
+C:\Users\учеба\ВиртуалОчка\Lab_2\Lab_2\bin\Debug\net7.0\Lab_2.pdb
+C:\Users\учеба\ВиртуалОчка\Lab_2\Lab_2\obj\Debug\net7.0\Lab_2.csproj.AssemblyReference.cache
+C:\Users\учеба\ВиртуалОчка\Lab_2\Lab_2\obj\Debug\net7.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\учеба\ВиртуалОчка\Lab_2\Lab_2\obj\Debug\net7.0\Lab_2.AssemblyInfoInputs.cache
+C:\Users\учеба\ВиртуалОчка\Lab_2\Lab_2\obj\Debug\net7.0\Lab_2.AssemblyInfo.cs
+C:\Users\учеба\ВиртуалОчка\Lab_2\Lab_2\obj\Debug\net7.0\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\учеба\ВиртуалОчка\Lab_2\Lab_2\obj\Debug\net7.0\Lab_2.dll
+C:\Users\учеба\ВиртуалОчка\Lab_2\Lab_2\obj\Debug\net7.0\refint\Lab_2.dll
+C:\Users\учеба\ВиртуалОчка\Lab_2\Lab_2\obj\Debug\net7.0\Lab_2.pdb
+C:\Users\учеба\ВиртуалОчка\Lab_2\Lab_2\obj\Debug\net7.0\Lab_2.genruntimeconfig.cache
+C:\Users\учеба\ВиртуалОчка\Lab_2\Lab_2\obj\Debug\net7.0\ref\Lab_2.dll
